@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 # 💫 About Me:
 🔭 I’m currently working on Ecommerce Website<br>👯 I’m looking to collaborate on MERN Stack Project<br>🤝 I’m looking for help with MERN Stack Application<br>🌱 I’m currently learning TypeScript and Next JS<br>💬 Ask me about MERN Stack<br>⚡ Fun fact The term "full stack" was coined in the early 2000s and originally referred to a developer who could work on both the front-end and back-end of a web application.
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
