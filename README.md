@@ -16,7 +16,7 @@
 
 🌟 If you're looking for a versatile full-stack developer who is passionate about creating exceptional web applications using the MERN stack, I'd love to collaborate with you! Feel free to explore my GitHub repositories for a glimpse into my work.
 
-📬 You can reach me via email at vikasdeshmukh63@gmail.com or connect with me on LinkedIn [https://www.linkedin.com/in/vikas-deshmukh-fullstackdeveloper/]. Let's build something great together!
+📬 You can reach me via email at vikasdeshmukh63@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/vikas-deshmukh-fullstackdeveloper/. Let's build something great together!
 
 
 ## 🌐 Socials:
